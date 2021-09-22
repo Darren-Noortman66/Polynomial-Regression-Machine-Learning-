@@ -20,12 +20,10 @@ A machine learning program made using the Python language and the polynomial reg
 
 ## How to Develop, Use, and Test the code.
 
-Firstly, you will need to install an IDE/ IDLE that can run .java files, such as IntelliJ. (If you don't have one installed.)
-Once you have the IDE/ IDLE setup, then run the 'Poised.java' file. This is the main-driver file for running the program. When the file has been opened, then run / execute the program.
+Firstly, you will need to install an IDE/ IDLE that can run .py, such as PyCharm. (If you don't have one installed.)
+Once you have the IDE/ IDLE setup, then run the 'task_manager.py' file. This is the execution file for the program. When the file has been opened, then run / execute the program.
 
-Now that you have the program running, you will have options/ instructions printed on the screen for you. Choose amongst these options to work with the program as you wish. Each option will provide you with information needed to add/ manipulate projects. Be sure to first add a project before trying to manipulate it as this will cause an error.
-
-To test your input/ code, you can look at the output printed on the screen to see if the information inserted is correct.
+Once the program is executed, a figure will appear dispaying the information gathered by the machine. Below this figure you will see controls on how to manipulate the graph.
 
 
 ## How you can help
