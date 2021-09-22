@@ -1,21 +1,21 @@
 # Polynomial-Regression-Machine-Learning-
-A machine learning program made using the polynomial regression method and the Python language.
+A machine learning program made using the Python language and the polynomial regression method.
 
-## This project is used to 
+## This project is used to determine the price for pizza depending on its diameter.
 
 
 * **What is this repo or project?**
 
-    This project is used to run a project-management-system for an engineering firm named Poised. The data entered will be stored in a MySQL database.
+     This project runs an application named 'poly' which is used to determine the prices for pizzas depending on their diameter. After executing the program
 * **How does it work?**
 
-    This project works with java and MySQL. It is executed using the 'Poised.java' file. The other files are classes used to create objects in the 'Poised' file. Simply follow the instructions/ options presented to work with the program.
+    This project is made using Python, and the machine-learning method used is polynomial-regression. This means the prices for the pizzas are all dependent on the pizza's diameter. The machine is 'taught' how to respond to the data it will recieve through a training and testing set. A figure will appear when the program is executed. Below this figure you will see controls on how to manipulate the graph.
 * **Who will use this repo or project?**
 
-    This project is made for the employees of Poised so that they can manage their engineering products more efficiently. (Hyperion-Dev Project)
+    This project is used to showcase my understanding of Machine-Learning. I just used pizzas as a fun example. :D
 * **What is the goal of this project?**
     
-    This project is meant to store the projects inserted by the employees of Poised. Each project will have unique data that defines it. Each project will also have information regarding the people involved with it. New projects can be added and viewed.
+    The main goal of this task was to practice machine-learning. The program is made to 'learn' from the data it is given in order to determine the pizzas' prices from their diameter. Executing this program will display a figure showing the information on the diameters and prices. 
 
 
 ## How to Develop, Use, and Test the code.
